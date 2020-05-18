@@ -13,3 +13,6 @@ Copy author name: shift + ctrl + cmd + c
 Paste page title as roam link: alt + cmd + v
 Paste page metadata (with author name) as heading: shift + ctrl + cmd + v
 Paste passages: ctrl + cmd + v
+
+Demo:
+https://youtu.be/ffFJyStcVds
